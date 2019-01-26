@@ -2,6 +2,8 @@
 
 This repository stores the slides and code examples for the *Data and Media Hack 2019* [Event webpage](http://bu-dmc.hkbu.edu.hk) on Python for data exploration and visualization at HKBU, 26 Jan 2019.
 
+![DMH poster](DMHpngcover_2019.png)
+
 ## About the workshop
 This 45-min lightening workshop, as one of the workshops for the *Data and Media Hack 2019* [Event webpage](http://bu-dmc.hkbu.edu.hk), attempts to explore fundamental issues on the intersection of programming, data exploration, and data visualization (based on a ready-made data), data-driven stories, and comparative political studies. It will also make a whirlwind tour of three Python data analytics packages, namely, Pandas, Matplotlib, and Seaborn. Topics include package installation, program execution, as well as data processing, and what this workshop tries to convey as "problem-driven data visualization and data-driven  exploration."
 
