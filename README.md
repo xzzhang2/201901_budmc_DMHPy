@@ -21,8 +21,8 @@ This 45-min lightening workshop, as one of the workshops for the *Data and Media
     2. Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
 
 ## Documents
-1. The slide: 20190126_DMH2019_slide.pptx
-2. The Notebook: 20190126_DMH2019_notebook.ipynb
+1. The [Slide](https://github.com/xzzhang2/201901_budmc_DMHPy/blob/master/20190126_DMH2019_slide.pptx)
+2. The [Notebook](https://nbviewer.jupyter.org/github/xzzhang2/201901_budmc_DMHPy/blob/master/20190126_DMH2019_notebook.ipynb)
 
 ## About the facilitator
 Dr Xinzhi ZHANG (M.A. & Ph.D., CityU HK) is a Research Assistant Professor at JOUR. His research interests include comparative political communication, emerging technologies and social change, digital humanities, and data-driven journalism. His research works have been published on journals such as *Computers in Human Behavior*, *International Political Science Review*, and *Digital Journalism*. He teaches several interdisciplinary courses such as ***Social Media Data Acquisition and Processing with Python*** ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)), ***AI for Digital Communication***, and ***Algorithmic Culture***. He is the Director of the *[Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk/)* at JOUR.
